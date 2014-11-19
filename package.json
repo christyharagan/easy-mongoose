@@ -1,0 +1,19 @@
+{
+  "name": "easy-mongoose",
+  "author": {
+    "name": "Christy Haragan",
+    "email": "christy.haragan.github@gmail.com",
+    "url": "https://github.com/christyharagan"
+  },
+  "repository": "christyharagan/easy-mongoose",
+  "license": "MIT",
+  "version": "0.1.0",
+  "dependencies": {
+    "bluebird": "^2.3.11",
+    "mongoose": "^3.8.19"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "main": "./lib/index.js"
+}
